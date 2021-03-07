@@ -1,1 +1,1 @@
-This is John's first git project!
+This is MY first git project!
